@@ -10,8 +10,3 @@ git push
 
 
 git pull
-
-
-
-
-Hhhhhhhhh

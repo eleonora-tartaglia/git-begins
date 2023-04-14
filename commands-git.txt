@@ -7,3 +7,6 @@ git add .
 git commit -m " commentaire "
 
 git push
+
+
+git pull
